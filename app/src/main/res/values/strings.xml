@@ -1,0 +1,11 @@
+<resources>
+    <integer name="com_vk_sdk_AppId">6411627</integer>
+    <string name="app_name">VK FRNDS</string>
+    <string name="log_in">Login in to VK</string>
+    <string name="login_button">Login</string>
+    <string name="friends_search_hint">Enter your query</string>
+    <string name="friends_no_items">You not have friends</string>
+    <string name="login_error_credentials">Login error</string>
+    <string name="friend_no_city">City not specified</string>
+    <string name="friends_error_loading">Error loading friend list</string>
+</resources>
